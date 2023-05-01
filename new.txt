@@ -18,7 +18,7 @@
       <year>2003</year>
       <price>39.95</price>
    </book>
-      <book category="WEB3">
+      <book category="WEB356">
       <title lang="en">Learning HTML</title>
       <author>Roan Jonson</author>
       <year>2012</year>
